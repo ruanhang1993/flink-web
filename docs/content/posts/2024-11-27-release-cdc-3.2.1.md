@@ -1,11 +1,11 @@
 ---
 title:  "Apache Flink CDC 3.2.1 Release Announcement"
-date: "2024-11-21T08:00:00.000Z"
+date: "2024-11-27T08:00:00.000Z"
 authors:
 - ruanhang1993:
   name: "Hang Ruan"
 aliases:
-- /news/2024/11/21/release-release-cdc-3.2.1.html
+- /news/2024/11/27/release-release-cdc-3.2.1.html
 ---
 The Apache Flink Community is pleased to announce the first bug fix release of the Flink CDC 3.2 series.
 
